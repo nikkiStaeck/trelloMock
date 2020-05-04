@@ -1,2 +1,1 @@
-# trelloMock
-TrelloClone using MEAN 
+# mnPractice
